@@ -1,0 +1,2 @@
+framerate_throttle false
+map_name levels\neo\crater\crater

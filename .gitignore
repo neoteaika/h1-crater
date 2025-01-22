@@ -29967,3 +29967,7 @@ data/levels/neo/crater/source/refjms/sentinel.jms
 data/levels/neo/crater/source/refjms/spartan.jms
 data/levels/neo/crater/source/refjms/warthog.jms
 data/levels/neo/crater/source/refjms/wraith.jms
+/reports
+heap_dump.txt
+gamestate.txt
+data/debug_lightmaps.tif
