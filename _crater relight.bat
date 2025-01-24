@@ -1,0 +1,1 @@
+hell_tool.exe lightmaps levels\neo\crater\crater all 1 0.000001
